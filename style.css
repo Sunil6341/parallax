@@ -1,0 +1,141 @@
+
+ *{
+    margin:0px;
+    padding:0px;
+ }
+.one{
+    height: 700px;
+    width: 100%;
+    background-image: url(wheel.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.one h4{
+    
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-size: 40px;
+    border: 2px solid cyan;
+    margin-right: 650px;
+    padding: 10px;
+    background-color:cyan;
+    color:black;
+}
+.two{
+    height: 800px;
+    width:100%;
+    background-image: url(puri.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.two h3{
+    position:relative;
+    text-align:center;
+    top:100px;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid cornflowerblue;
+    background-color: cornflowerblue ;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+     
+}
+.three{
+    height: 700px;
+    width:100%;
+    background-image: url(Konark.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.three h3{
+    position:relative;
+    text-align:center;
+    top:100px;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid rgb(237, 175, 100);
+    background-color:rgb(237, 175, 100) ;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.four{
+    height: 700px;
+    width:100%;
+    background-image: url(chilika.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.four h3{
+    position:relative;
+    text-align:center;
+    top:100px;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid #ffbb39;
+    background-color:#ffbb39;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.five{
+    height: 700px;
+    width:100%;
+    background-image: url(bhitarkanika.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.five h3{
+    position:relative;
+    text-align:center;
+    top:100px;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid #2c5f2d;
+    background-color:#2c5f2d;
+    color:#97bc62ff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.six{
+    height: 500px;
+    width:100%;
+    background-image: url(daringibadi.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.six h3{
+    position:relative;
+    text-align:center;
+    top:100px;
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 2px solid #8bbee8ff;
+    background-color:#8bbee8ff;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+.para{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:3px solid black;
+    padding: 10px;
+    margin: 2px;
+}
+
